@@ -1,1 +1,1 @@
-#Citadel Datathon, Eastcoast Regional 2021
+Citadel Datathon, East Coast Regional 2021
